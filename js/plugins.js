@@ -11,6 +11,7 @@ $(document).ready(function(){
 	/* Color Picker */
 	
 	  //demo
+	  /*
 	 jQuery('.picker-btn').click(function(){
 	  if(jQuery('.color-picker').css('right')=='0px'){
 	   jQuery('.color-picker').animate({ "right": "-223px" }, "slow" );
@@ -20,12 +21,14 @@ $(document).ready(function(){
 	 });
     setTimeout(function(){
     jQuery('.color-picker').animate({ "right": "-223px" }, "slow" );}, 4000);
-	
+	*/
+
 	var currentColor = 'blue';
 	var currentBrightness = "darker" ;
 	$('body').addClass(currentColor);
 	$('body').addClass(currentBrightness);
 
+	/*
 	$('.picker-blue').click(function(){
 		$('body').removeClass(currentColor);
 		$('body').addClass('blue');
@@ -80,8 +83,10 @@ $(document).ready(function(){
 	$('.light-version').click(function(){
 		$('body').removeClass('darker');
 	});
-	
+	*/
+
 	/* googleMaps Footer Map */
+        /*
 		var blue = "#00D6FF"
 		var black = "-100"
 		var green = "#77be32"
@@ -215,7 +220,7 @@ $(document).ready(function(){
 		 wpgmappity_maps_loaded();
 		};
 	
-	
+        */	
 	
 
 		
