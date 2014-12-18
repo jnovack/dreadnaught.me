@@ -367,10 +367,10 @@ html, body {
 .slider-logo a, .buy-logo a{text-decoration: none; color: #fff;}
 .main-title{
     color: #fff;
-    height: 385px;
+    height: 400px;
     overflow: hidden;
     position: absolute;
-    top: 50%;
+    top: 35%;
     margin-top:-176px;
     width: 100%;
     pointer-events: none;
