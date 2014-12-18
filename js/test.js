@@ -508,7 +508,7 @@ $(document).ready(function(){
 	loadCarousel();
 	loadArrows();
 	loadSmall();
-	loadTitleAnimated();
+	//loadTitleAnimated();
 	loadMenuSelector();
 	loadIsotope();
 	loadHoverDir();

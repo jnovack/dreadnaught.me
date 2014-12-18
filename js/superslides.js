@@ -6,7 +6,7 @@ $(document).ready(function(){
       $('#slides-1').superslides({
         hashchange: false,
         animation: 'fade',
-		play: 10000,
+		play: 0,
 		pagination: false
       });
 	}
