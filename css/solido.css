@@ -31,19 +31,18 @@ html, body {
 
 /* Loading */
 #mask {
-    background-color: #FFFFFF;
+    background-color: #000000;
     height: 100%;
     position: fixed;
     width: 100%;
     z-index: 100000;
 }
 .loader {
+  display: block
   position: absolute;
-  width: 40px;
-  height:40px;
-  margin: -20px 0 0 -20px;
-  top:50%;
-  left:50%;
+  width: 600px;
+  height:360px;
+  margin: 0 auto;
 }
 
 /* Color Picker */
@@ -712,7 +711,7 @@ html, body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
-.title.one{color: #404141; font-size: 37px; letter-spacing: 5px; padding: 120px 0 30px; text-transform: uppercase;}
+.title.one{color: #404141; font-size: 37px; letter-spacing: 5px; padding: 60px 0 30px; text-transform: uppercase;}
 .title.two{color: #757575; font-size: 17px; font-family: 'Open Sans', sans-serif; width: 680px; margin: 50px auto;}
 .f-info{
     font-weight: 400;
