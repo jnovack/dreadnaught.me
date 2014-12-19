@@ -793,6 +793,12 @@ html, body {
 }
 .half-content a{color: #4cddf3; text-decoration: none; font-weight: 400;}
 
+.fontplusone { font-size: 110% }
+.fontplustwo { font-size: 125% }
+.fontplusthree { font-size: 133% }
+.fontplusfour { font-size: 140% }
+.fontplusfive { font-size: 150% }
+
 /* Parallax */
 .parallax .p-dark{color: #404040;}
 .parallax{
