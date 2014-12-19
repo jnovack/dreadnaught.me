@@ -515,5 +515,4 @@ $(document).ready(function(){
   loadLogos();
   loadContentCarousel();
 
-   $(window).scroll(); // Reload Hack
 });
