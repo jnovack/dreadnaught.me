@@ -514,4 +514,6 @@ $(document).ready(function(){
   loadHoverDir();
   loadLogos();
   loadContentCarousel();
+
+   $(window).scroll(); // Reload Hack
 });
