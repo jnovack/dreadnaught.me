@@ -1,12 +1,7 @@
 @charset "UTF-8";
 /* Responsive Layout */
 
-/* Smaller than 1180 (devices and browsers) */
-@media only screen and (max-width: 1180px) {
-
-}
-
-/* Smaller than 1180 (devices and browsers) */
+/* Smaller than 1258 (devices and browsers) */
 @media only screen and (min-width: 976px) and (max-width: 1258px) {
   .main-title ul {font-size: 65px;}
   .full{width: 960px;}
