@@ -1864,22 +1864,17 @@ html, body {
     margin: 0px auto 35px;
     padding-top:50px;
 }
-.socialFooter .social-icons .social{
-/*    float: right;
-    right: 50%;
-    position: relative;*/
+.socialFooter .social-icons .social {
+    text-align: center;
 }
 .socialFooter .social-icons .social div{
     width: 51px;
     height: 51px;
     overflow: hidden;
-    background: url("../img/social-footer.png");
     float: left;
     margin: 0 10px;
-}.socialFooter .social-icons .social div:hover{opacity: 0.7;}
-.socialFooter .social-icons .social .face{ background-position: right bottom;}
-.socialFooter .social-icons .social .twitt{ background-position: left bottom;}
-.socialFooter .social-icons .social .plus{ background-position: -51px bottom;}
+}
+.socialFooter .social-icons .social div:hover{opacity: 0.7;}
 .socialFooter .copy{
     text-align:center;
     font-family: 'Josefin Sans', sans-serif;
