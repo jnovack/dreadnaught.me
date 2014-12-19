@@ -1875,6 +1875,11 @@ html, body {
     float: left;
     margin: 0 10px;
 }
+.socialFooter a {
+    text-decoration: none;
+    color: #cccccc;
+}
+
 .socialFooter .social-icons .social div:hover{opacity: 0.7;}
 .socialFooter .copy{
     text-align:center;
