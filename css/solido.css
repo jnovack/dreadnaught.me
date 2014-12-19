@@ -1474,6 +1474,9 @@ html, body {
     color: #fff;
     text-align: center;
 }
+.ch-grid div span a {
+    text-decoration: none;
+}
 .ch-grid div span span {
     margin: auto;
     text-transform: lowercase;
