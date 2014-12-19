@@ -370,7 +370,7 @@ html, body {
     height: 400px;
     overflow: hidden;
     position: absolute;
-    top: 35%;
+    top: 50%;
     margin-top:-176px;
     width: 100%;
     pointer-events: none;

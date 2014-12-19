@@ -60,7 +60,7 @@
   .menu{display: none;}
   .slider-controls {display: none;}
   .jump-menu{display: block;}
-  .main-title { height: 350px;top: 50%; margin-top:-175px;}
+  .main-title { height: 400px;top: 50%; margin-top: -224px;}
   .sl-element{margin-bottom: 50px;}
 }
 
@@ -174,7 +174,7 @@
 @media only screen and (max-width: 479px) {
 .hideme{opacity: 1;}
 .hideme-slide{opacity: 1; bottom: auto !important;}
-  .main-title { height: 300px;top: 50%; margin-top:-150px;}
+  .main-title { height: 400px;top: 50%; margin-top:-150px;}
   .logo{ margin-left:20px;}
   .color-picker{ display:none;}
   .p-image-02 div{ left:50%;}
