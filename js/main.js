@@ -1,8 +1,8 @@
 "use strict";
 
 $(window).load(function() {
-    $(".loader").delay(500).fadeOut();
-    $("#mask").delay(1000).fadeOut("slow");
+    // $(".loader").delay(0).fadeOut();
+    $("#mask").fadeOut("slow");
     $(window).delay(1001).scroll();     // Reload hack
 });
 
