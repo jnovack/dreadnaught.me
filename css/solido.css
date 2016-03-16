@@ -304,7 +304,7 @@ html, body {
     line-height: 75px;
     margin-left: 68px;
 }
-.logo span{
+.logo span.outer {
     position: relative;
     float: left;
     width: 20px;
@@ -313,7 +313,7 @@ html, body {
     background: rgba(76,221,243,0.5);
     margin: 26px 7px 0 0;
 }
-.logo span span{
+.logo span.outer span.inner{
     position: absolute;
     width: 10px;
     height: 10px;
