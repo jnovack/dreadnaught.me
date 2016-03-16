@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'primetime';
-    src:url('font/primetime.ttf.woff') format('woff'),
-        url('font/primetime.ttf.svg#primetime') format('svg'),
-        url('font/primetime.ttf.eot'),
-        url('font/primetime.ttf.eot?#iefix') format('embedded-opentype');
+    src:url('../font/primetime.ttf.woff') format('woff'),
+        url('../font/primetime.ttf.svg#primetime') format('svg'),
+        url('../font/primetime.ttf.eot'),
+        url('../font/primetime.ttf.eot?#iefix') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 .primetime {
-  font-family: 'primetime', 'serif' !important;
+  font-family: 'primetime', 'sans-serif' !important;
 }

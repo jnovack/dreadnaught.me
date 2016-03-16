@@ -293,7 +293,7 @@ html, body {
     transition: all 0.2s ease-in-out;*/
 }
 #nav .current a {color: #4cddf3 !important;}
-.logo{
+.logo {
     float: left;
     color: #000;
     font-family: 'Montserrat', sans-serif;
@@ -313,7 +313,7 @@ html, body {
     background: rgba(76,221,243,0.5);
     margin: 26px 7px 0 0;
 }
-.logo span.outer span.inner{
+.logo span.outer span.inner {
     position: absolute;
     width: 10px;
     height: 10px;
