@@ -1578,10 +1578,10 @@ html, body {
 
 /* Image Footer Spacer */
 .img-spacer{
-    background-color: #000000;
+    /* background-color: #000000; JJN */
     margin: 0;
     position: relative;
-    height: 192px;
+    height: 128px;
 }
 .img-item{
     position: absolute;
